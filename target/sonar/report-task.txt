@@ -1,0 +1,6 @@
+projectKey=course
+serverUrl=http://localhost:9091
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9091/dashboard?id=course
+ceTaskId=AYbrKRGjnsWwbga5Ap3g
+ceTaskUrl=http://localhost:9091/api/ce/task?id=AYbrKRGjnsWwbga5Ap3g
